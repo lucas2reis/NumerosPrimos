@@ -6,7 +6,7 @@ namespace NumerosPrimos
 {
     public class IdentifyString
     {
-        //verifição se é número
+        //verificação se é número
         public static void Main()
         {
             string teste;
@@ -26,7 +26,7 @@ namespace NumerosPrimos
             }
         }
 
-        //verifição se é primo
+        //verificação se é primo
         public static void Primo(int n)
         { 
             int i;
